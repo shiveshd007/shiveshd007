@@ -70,12 +70,12 @@ const shivesh = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivesh-devx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivesh-devx&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shiveshd007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shiveshd007&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivesh-devx&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiveshd007&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" />
 </div>
 
 ---
@@ -84,7 +84,7 @@ const shivesh = {
 
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=shivesh-devx&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=shiveshd007&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -105,7 +105,7 @@ const shivesh = {
 
 <div align="center">
   
-[![Shivesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shivesh-devx&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Shivesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shiveshd007&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -115,9 +115,9 @@ const shivesh = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivesh-devx)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shiveshd007)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shiveshdwivedi.dev@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivesh-devx)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shiveshd007)
 
 </div>
 
@@ -125,8 +125,8 @@ const shivesh = {
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=shivesh-devx&label=Profile%20Views&color=2563EB&style=flat)
-![Followers](https://img.shields.io/github/followers/shivesh-devx?label=Followers&style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=shiveshd007&label=Profile%20Views&color=2563EB&style=flat)
+![Followers](https://img.shields.io/github/followers/shiveshd007?label=Followers&style=social)
 
 **💡 Open to exciting Frontend Developer opportunities!**
 
